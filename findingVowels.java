@@ -15,8 +15,7 @@ for(int i = 0 ; i< str.length() ; i++){
     }
        
     }
-    if(ch ==! 'a' || ch ==! 'e' || ch==! 'i' || ch==! 'o' || ch==! 'u'){
-        System.out.println("No vowels!!");
+  
     }
 }
 
